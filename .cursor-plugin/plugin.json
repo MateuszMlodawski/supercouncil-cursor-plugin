@@ -1,5 +1,6 @@
 {
   "name": "supercouncil",
+  "displayName": "SuperCouncil",
   "description": "Put a decision to a council of top AI models from different labs and get one brief back in the chat: the verdict, where the models agree and split, the risks and the next steps.",
   "version": "1.0.0",
   "author": {
