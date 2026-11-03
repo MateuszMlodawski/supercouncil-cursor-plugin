@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "supercouncil": {
+      "type": "http",
+      "url": "https://supercouncil.ai/api/mcp"
+    }
+  }
+}
